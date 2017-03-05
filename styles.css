@@ -1,0 +1,27 @@
+body {
+    font-family: 'Diplomata SC', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+#header {
+    background-color: #59D0F7;
+    padding:80px;
+    margin-bottom:50px;
+}
+
+#header h1, #header h2 { 
+    color: #59D0F7
+    text-shadow: 10px 10px 0 #7B4CC2;
+}
+
+#about {
+    margin-bottom: 50px;
+}
